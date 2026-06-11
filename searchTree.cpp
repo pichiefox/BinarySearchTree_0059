@@ -129,4 +129,6 @@ class BinaryTree
 
 int main()
 {
+    BinaryTree obj;
+
 }
